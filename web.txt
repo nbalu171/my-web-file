@@ -2,3 +2,5 @@
  hii bro
  name : hujefa
  branch : ece
+status : employee 
+ salary : 20 lpa
